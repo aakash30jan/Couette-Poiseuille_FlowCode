@@ -1,0 +1,105 @@
+ ####### 1D Couette_Poiseuille-FlowCode ###
+ The case selected is CASE NUMBER            1
+ Here, the values of VW, H, DPDX are    12.840000152587891        6.5999999642372131E-002   0.0000000000000000      respectively.
+ The data generated will be saved to file Case_01_sim.dat
+ Total Number Iterations=        1532
+ UTAU1=  0.28082337948464797     
+ UTAU2=  0.28082337948468766     
+ U Average=   6.2798115795567915      U Max=   16.366068272966423     
+ Copying Generated GRID.dat to the directory Simulated_Data  . . . . 
+ Copied Successfully 
+ Copying Generated simulation data to the directory Simulated_Data . . . .
+ Copied Successfully 
+ Auto Plotting Disabled
+ ####### 1D Couette_Poiseuille-FlowCode ###
+ The case selected is CASE NUMBER            2
+ Here, the values of VW, H, DPDX are    12.840000152587891        6.5999999642372131E-002 -0.80800002813339233      respectively.
+ The data generated will be saved to file Case_02_sim.dat
+ Total Number Iterations=        1300
+ UTAU1=  0.32609961234465329     
+ UTAU2=  0.23024542471774104     
+ U Average=   7.6776823906118352      U Max=   15.210315853309607     
+ Copying Generated GRID.dat to the directory Simulated_Data  . . . . 
+ Copied Successfully 
+ Copying Generated simulation data to the directory Simulated_Data . . . .
+ Copied Successfully 
+ Auto Plotting Disabled
+ ####### 1D Couette_Poiseuille-FlowCode ###
+ The case selected is CASE NUMBER            3
+ Here, the values of VW, H, DPDX are    12.840000152587891        6.5999999642372131E-002  -1.4859999418258667      respectively.
+ The data generated will be saved to file Case_03_sim.dat
+ Total Number Iterations=        1126
+ UTAU1=  0.36032811291223971     
+ UTAU2=  0.17821434657689406     
+ U Average=   8.8624955111871664      U Max=   14.260069327976009     
+ Copying Generated GRID.dat to the directory Simulated_Data  . . . . 
+ Copied Successfully 
+ Copying Generated simulation data to the directory Simulated_Data . . . .
+ Copied Successfully 
+ Auto Plotting Disabled
+ ####### 1D Couette_Poiseuille-FlowCode ###
+ The case selected is CASE NUMBER            4
+ Here, the values of VW, H, DPDX are    12.840000152587891        6.5999999642372131E-002  -1.5099999904632568      respectively.
+ The data generated will be saved to file Case_04_sim.dat
+ Total Number Iterations=        1123
+ UTAU1=  0.36149326749360583     
+ UTAU2=  0.17611752784048346     
+ U Average=   8.9047658994426886      U Max=   14.226849660136731     
+ Copying Generated GRID.dat to the directory Simulated_Data  . . . . 
+ Copied Successfully 
+ Copying Generated simulation data to the directory Simulated_Data . . . .
+ Copied Successfully 
+ Auto Plotting Disabled
+ ####### 1D Couette_Poiseuille-FlowCode ###
+ The case selected is CASE NUMBER            5
+ Here, the values of VW, H, DPDX are    12.840000152587891        6.5999999642372131E-002  -1.9600000381469727      respectively.
+ The data generated will be saved to file Case_05_sim.dat
+ Total Number Iterations=        1018
+ UTAU1=  0.38287967689180746     
+ UTAU2=  0.13128916619435615     
+ U Average=   9.7038932221304357      U Max=   13.610694113122662     
+ Copying Generated GRID.dat to the directory Simulated_Data  . . . . 
+ Copied Successfully 
+ Copying Generated simulation data to the directory Simulated_Data . . . .
+ Copied Successfully 
+ Auto Plotting Disabled
+ ####### 1D Couette_Poiseuille-FlowCode ###
+ The case selected is CASE NUMBER            6
+ Here, the values of VW, H, DPDX are    8.5900001525878906        6.5999999642372131E-002  -1.4299999475479126      respectively.
+ The data generated will be saved to file Case_06_sim.dat
+ Convergence was not reached !
+ Calculations terminated after       10000 iterations.
+ UTAU1=  0.30505756711864945     
+ UTAU2=   3.6330108317991099E-002
+ U Average=   7.3689159341625317      U Max=   8.6490144934462219     
+ Copying Generated GRID.dat to the directory Simulated_Data  . . . . 
+ Copied Successfully 
+ Copying Generated simulation data to the directory Simulated_Data . . . .
+ Copied Successfully 
+ Auto Plotting Disabled
+ ####### 1D Couette_Poiseuille-FlowCode ###
+ The case selected is CASE NUMBER            7
+ Here, the values of VW, H, DPDX are    17.079999923706055       0.10100000351667404       -3.5480000972747803      respectively.
+ The data generated will be saved to file Case_07_sim.dat
+ Total Number Iterations=        1570
+ UTAU1=  0.53120580809938966     
+ UTAU2=  0.27598625281613326     
+ U Average=   22.931489101014016      U Max=   23.963935714963210     
+ Copying Generated GRID.dat to the directory Simulated_Data  . . . . 
+ Copied Successfully 
+ Copying Generated simulation data to the directory Simulated_Data . . . .
+ Copied Successfully 
+ Auto Plotting Disabled
+ ####### 1D Couette_Poiseuille-FlowCode ###
+ The case selected is CASE NUMBER            8
+ Here, the values of VW, H, DPDX are    12.840000152587891       0.10100000351667404       -2.3229999542236328      respectively.
+ The data generated will be saved to file Case_08_sim.dat
+ Total Number Iterations=        1121
+ UTAU1=  0.43752836479898533     
+ UTAU2=  0.20782669112060936     
+ U Average=   16.161365217571163      U Max=   17.054598813830747     
+ Copying Generated GRID.dat to the directory Simulated_Data  . . . . 
+ Copied Successfully 
+ Copying Generated simulation data to the directory Simulated_Data . . . .
+ Copied Successfully 
+ Auto Plotting Disabled

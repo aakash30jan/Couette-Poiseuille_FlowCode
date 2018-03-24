@@ -1,0 +1,34 @@
+ ####### 1D Couette_Poiseuille-FlowCode ###
+ The case selected is CASE NUMBER            1
+ Here, the values of VW, H, DPDX are    12.840000152587891        6.5999999642372131E-002   0.0000000000000000      respectively.
+ The data generated will be saved to file Case_01_sim.dat
+ Total Number Iterations=        1532
+ UTAU1=  0.28082337948464797     
+ UTAU2=  0.28082337948468766     
+ U Average=   6.2798115795567915      U Max=   16.366068272966423     
+ Copying Generated GRID.dat to the directory Simulated_Data  . . . . 
+ Copied Successfully 
+ Copying Generated simulation data to the directory Simulated_Data . . . .
+ Copied Successfully 
+ Creating Plots . . . .
+ python plot_case.py --file Case_01_sim.dat
+Case to be plotted:  Case_01_
+Plotting case . . .
+Saving Plots . . .
+ ####### 1D Couette_Poiseuille-FlowCode ###
+ The case selected is CASE NUMBER            2
+ Here, the values of VW, H, DPDX are    12.840000152587891        6.5999999642372131E-002 -0.80800002813339233      respectively.
+ The data generated will be saved to file Case_02_sim.dat
+ Total Number Iterations=        1300
+ UTAU1=  0.32609961234465329     
+ UTAU2=  0.23024542471774104     
+ U Average=   7.6776823906118352      U Max=   15.210315853309607     
+ Copying Generated GRID.dat to the directory Simulated_Data  . . . . 
+ Copied Successfully 
+ Copying Generated simulation data to the directory Simulated_Data . . . .
+ Copied Successfully 
+ Creating Plots . . . .
+ python plot_case.py --file Case_02_sim.dat
+Case to be plotted:  Case_02_
+Plotting case . . .
+Saving Plots . . .
