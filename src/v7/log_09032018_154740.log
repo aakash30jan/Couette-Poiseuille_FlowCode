@@ -1,0 +1,19 @@
+ ####### 1D Couette_Poiseuille-FlowCode ###
+ The case selected is CASE NUMBER           15
+ Here, the values of VW, H, DPDX are   0.10000000000000001        6.5999999642372131E-002  -13.140000343322754      respectively.
+ The data generated will be saved to file Case_15_sim.dat
+ Convergence was not reached !
+ Calculations terminated after       10000 iterations.
+ UTAU1=  0.62433264314207093     
+ UTAU2=   2.9892228752377754E-002
+ U Average=   24.886069055572481      U Max=   36.774269353745382     
+ this is the val   36.774269353745382     
+ Copying Generated GRID.dat to the directory Simulated_Data  . . . . 
+ Copied Successfully 
+ Copying Generated simulation data to the directory Simulated_Data . . . .
+ Copied Successfully 
+ Creating Plots . . . .
+Case to be plotted:  Case_15_
+Plotting case . . .
+Saving Plots . . .
+ Cleaning Execution Directory
