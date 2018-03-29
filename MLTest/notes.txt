@@ -1,0 +1,4 @@
+https://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/
+https://medium.com/machine-learning-world/neural-networks-for-algorithmic-trading-2-1-multivariate-time-series-ab016ce70f57
+https://gist.github.com/jkleint/1d878d0401b28b281eb75016ed29f2ee
+https://github.com/keras-team/keras/blob/master/examples/imdb_cnn_lstm.py
