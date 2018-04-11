@@ -1,0 +1,404 @@
+ ########################################
+ ###### Couette_Poiseuille-FlowCode #####
+ ########################################
+ ### Fetching Values from the Parameters File ###
+ The selected CASE NUMBER is            1
+ Here, the values of VW, H, DPDX are    12.840000152587891        6.5999999642372131E-002   0.0000000000000000      respectively.
+ The data generated will be saved to file Case_01_sim.dat
+ ### Generating Grid ###
+ Grid Generation Successfull.
+ ### Solving for Flow Parameters ###
+ Convergence was reached after, iterations =        2661
+ UTAU1=  0.30266682244469845      UTAU2=  0.30266682244529747     
+ UAVG=   6.4344336562620068      UMAX=   13.240440102830206     
+ ### Organizing Data Files ###
+ Copied Successfully 
+ Copying Generated simulation data to the directory '../Simulated_Data'
+ cp Case_01_sim.dat ../Simulated_Data/Case_01_sim.dat
+ Copied Successfully 
+ ### Plotting ###
+ Creating Plots
+ python autoplotting.py --file Case_01_sim.dat
+('Case to be plotted: ', 'Case_01_')
+Plotting Case
+Saving Plots
+ Cleaning Execution Directory
+ ### Fetching Values from the Parameters File ###
+ The selected CASE NUMBER is            2
+ Here, the values of VW, H, DPDX are    12.840000152587891        6.5999999642372131E-002 -0.80800002813339233      respectively.
+ The data generated will be saved to file Case_02_sim.dat
+ ### Generating Grid ###
+ Grid Generation Successfull.
+ ### Solving for Flow Parameters ###
+ Convergence was reached after, iterations =        2273
+ UTAU1=  0.34579352053584833      UTAU2=  0.25738134601479173     
+ UAVG=   7.2769360064837718      UMAX=   13.129575709063776     
+ ### Organizing Data Files ###
+ Copied Successfully 
+ Copying Generated simulation data to the directory '../Simulated_Data'
+ cp Case_02_sim.dat ../Simulated_Data/Case_02_sim.dat
+ Copied Successfully 
+ ### Plotting ###
+ Creating Plots
+ python autoplotting.py --file Case_02_sim.dat
+('Case to be plotted: ', 'Case_02_')
+Plotting Case
+Saving Plots
+ Cleaning Execution Directory
+ ### Fetching Values from the Parameters File ###
+ The selected CASE NUMBER is            3
+ Here, the values of VW, H, DPDX are    12.840000152587891        6.5999999642372131E-002  -1.4859999418258667      respectively.
+ The data generated will be saved to file Case_03_sim.dat
+ ### Generating Grid ###
+ Grid Generation Successfull.
+ ### Solving for Flow Parameters ###
+ Convergence was reached after, iterations =        2242
+ UTAU1=  0.38103409861581949      UTAU2=  0.21705065924676012     
+ UAVG=   7.9883929393518089      UMAX=   13.045935066532833     
+ ### Organizing Data Files ###
+ Copied Successfully 
+ Copying Generated simulation data to the directory '../Simulated_Data'
+ cp Case_03_sim.dat ../Simulated_Data/Case_03_sim.dat
+ Copied Successfully 
+ ### Plotting ###
+ Creating Plots
+ python autoplotting.py --file Case_03_sim.dat
+('Case to be plotted: ', 'Case_03_')
+Plotting Case
+Saving Plots
+ Cleaning Execution Directory
+ ### Fetching Values from the Parameters File ###
+ The selected CASE NUMBER is            4
+ Here, the values of VW, H, DPDX are    12.840000152587891        6.5999999642372131E-002  -1.5099999904632568      respectively.
+ The data generated will be saved to file Case_04_sim.dat
+ ### Generating Grid ###
+ Grid Generation Successfull.
+ ### Solving for Flow Parameters ###
+ Convergence was reached after, iterations =        1908
+ UTAU1=  0.38226999066864126      UTAU2=  0.21556981916369972     
+ UAVG=   8.0136995136125879      UMAX=   13.043134647641999     
+ ### Organizing Data Files ###
+ Copied Successfully 
+ Copying Generated simulation data to the directory '../Simulated_Data'
+ cp Case_04_sim.dat ../Simulated_Data/Case_04_sim.dat
+ Copied Successfully 
+ ### Plotting ###
+ Creating Plots
+ python autoplotting.py --file Case_04_sim.dat
+('Case to be plotted: ', 'Case_04_')
+Plotting Case
+Saving Plots
+ Cleaning Execution Directory
+ ### Fetching Values from the Parameters File ###
+ The selected CASE NUMBER is            5
+ Here, the values of VW, H, DPDX are    12.840000152587891        6.5999999642372131E-002  -1.9600000381469727      respectively.
+ The data generated will be saved to file Case_05_sim.dat
+ ### Generating Grid ###
+ Grid Generation Successfull.
+ ### Solving for Flow Parameters ###
+ Convergence was reached after, iterations =        2196
+ UTAU1=  0.40532964014807482      UTAU2=  0.18690135196002397     
+ UAVG=   8.4902015542937352      UMAX=   12.992697906830468     
+ ### Organizing Data Files ###
+ Copied Successfully 
+ Copying Generated simulation data to the directory '../Simulated_Data'
+ cp Case_05_sim.dat ../Simulated_Data/Case_05_sim.dat
+ Copied Successfully 
+ ### Plotting ###
+ Creating Plots
+ python autoplotting.py --file Case_05_sim.dat
+('Case to be plotted: ', 'Case_05_')
+Plotting Case
+Saving Plots
+ Cleaning Execution Directory
+ ### Fetching Values from the Parameters File ###
+ The selected CASE NUMBER is            6
+ Here, the values of VW, H, DPDX are    8.5900001525878906        6.5999999642372131E-002  -1.4299999475479126      respectively.
+ The data generated will be saved to file Case_06_sim.dat
+ ### Generating Grid ###
+ Grid Generation Successfull.
+ ### Solving for Flow Parameters ###
+ Convergence was reached after, iterations =        1773
+ UTAU1=  0.31624004733059063      UTAU2=   7.5018474453769954E-002
+ UAVG=   6.3738588625041395      UMAX=   8.6146006688150010     
+ ### Organizing Data Files ###
+ Copied Successfully 
+ Copying Generated simulation data to the directory '../Simulated_Data'
+ cp Case_06_sim.dat ../Simulated_Data/Case_06_sim.dat
+ Copied Successfully 
+ ### Plotting ###
+ Creating Plots
+ python autoplotting.py --file Case_06_sim.dat
+('Case to be plotted: ', 'Case_06_')
+Plotting Case
+Saving Plots
+ Cleaning Execution Directory
+ ### Fetching Values from the Parameters File ###
+ The selected CASE NUMBER is            7
+ Here, the values of VW, H, DPDX are    17.079999923706055       0.10100000351667404       -3.5480000972747803      respectively.
+ The data generated will be saved to file Case_07_sim.dat
+ ### Generating Grid ###
+ Grid Generation Successfull.
+ ### Solving for Flow Parameters ###
+ Convergence was not reached !
+ Calculations terminated after       10000 iterations.
+ UTAU1=  0.60475586022778960      UTAU2=   8.5916402276469087E-002
+ UAVG=   13.449731940184694      UMAX=   17.129378365992299     
+ ### Organizing Data Files ###
+ Copied Successfully 
+ Copying Generated simulation data to the directory '../Simulated_Data'
+ cp Case_07_sim.dat ../Simulated_Data/Case_07_sim.dat
+ Copied Successfully 
+ ### Plotting ###
+ Creating Plots
+ python autoplotting.py --file Case_07_sim.dat
+('Case to be plotted: ', 'Case_07_')
+Plotting Case
+Saving Plots
+ Cleaning Execution Directory
+ ### Fetching Values from the Parameters File ###
+ The selected CASE NUMBER is            8
+ Here, the values of VW, H, DPDX are    12.840000152587891       0.10100000351667404       -2.3229999542236328      respectively.
+ The data generated will be saved to file Case_08_sim.dat
+ ### Generating Grid ###
+ Grid Generation Successfull.
+ ### Solving for Flow Parameters ###
+ Convergence was not reached !
+ Calculations terminated after       10000 iterations.
+ UTAU1=  0.48355014426100201      UTAU2=   2.8324221604922820E-002
+ UAVG=   10.779262980355227      UMAX=   12.849983652253746     
+ ### Organizing Data Files ###
+ Copied Successfully 
+ Copying Generated simulation data to the directory '../Simulated_Data'
+ cp Case_08_sim.dat ../Simulated_Data/Case_08_sim.dat
+ Copied Successfully 
+ ### Plotting ###
+ Creating Plots
+ python autoplotting.py --file Case_08_sim.dat
+('Case to be plotted: ', 'Case_08_')
+Plotting Case
+Saving Plots
+ Cleaning Execution Directory
+ ### Fetching Values from the Parameters File ###
+ The selected CASE NUMBER is            9
+ Here, the values of VW, H, DPDX are    8.5900001525878906       0.10100000351667404       -1.2120000123977661      respectively.
+ The data generated will be saved to file Case_09_sim.dat
+ ### Generating Grid ###
+ Grid Generation Successfull.
+ ### Solving for Flow Parameters ###
+ Convergence was reached after, iterations =        5242
+ UTAU1=  0.34676784476826955      UTAU2=   4.6519537277094118E-002
+ UAVG=   7.3427917317158204      UMAX=   8.7210077165741655     
+ ### Organizing Data Files ###
+ Copied Successfully 
+ Copying Generated simulation data to the directory '../Simulated_Data'
+ cp Case_09_sim.dat ../Simulated_Data/Case_09_sim.dat
+ Copied Successfully 
+ ### Plotting ###
+ Creating Plots
+ python autoplotting.py --file Case_09_sim.dat
+('Case to be plotted: ', 'Case_09_')
+Plotting Case
+Saving Plots
+ Cleaning Execution Directory
+ ### Fetching Values from the Parameters File ###
+ The selected CASE NUMBER is           10
+ Here, the values of VW, H, DPDX are    12.840000152587891        6.5999999642372131E-002  -4.8299999237060547      respectively.
+ The data generated will be saved to file Case_10_sim.dat
+ ### Generating Grid ###
+ Grid Generation Successfull.
+ ### Solving for Flow Parameters ###
+ Convergence was reached after, iterations =        2802
+ UTAU1=  0.55478040648470051      UTAU2=  0.10487465765072519     
+ UAVG=   11.755350613605717      UMAX=   13.581907215184419     
+ ### Organizing Data Files ###
+ Copied Successfully 
+ Copying Generated simulation data to the directory '../Simulated_Data'
+ cp Case_10_sim.dat ../Simulated_Data/Case_10_sim.dat
+ Copied Successfully 
+ ### Plotting ###
+ Creating Plots
+ python autoplotting.py --file Case_10_sim.dat
+('Case to be plotted: ', 'Case_10_')
+Plotting Case
+Saving Plots
+ Cleaning Execution Directory
+ ### Fetching Values from the Parameters File ###
+ The selected CASE NUMBER is           11
+ Here, the values of VW, H, DPDX are    12.840000152587891        6.5999999642372131E-002  -7.5000000000000000      respectively.
+ The data generated will be saved to file Case_11_sim.dat
+ ### Generating Grid ###
+ Grid Generation Successfull.
+ ### Solving for Flow Parameters ###
+ Convergence was reached after, iterations =        2955
+ UTAU1=  0.66734714088118363      UTAU2=  0.22281784237130794     
+ UAVG=   14.252121064851600      UMAX=   15.960585938807142     
+ ### Organizing Data Files ###
+ Copied Successfully 
+ Copying Generated simulation data to the directory '../Simulated_Data'
+ cp Case_11_sim.dat ../Simulated_Data/Case_11_sim.dat
+ Copied Successfully 
+ ### Plotting ###
+ Creating Plots
+ python autoplotting.py --file Case_11_sim.dat
+('Case to be plotted: ', 'Case_11_')
+Plotting Case
+Saving Plots
+ Cleaning Execution Directory
+ ### Fetching Values from the Parameters File ###
+ The selected CASE NUMBER is           12
+ Here, the values of VW, H, DPDX are    12.840000152587891        6.5999999642372131E-002  -14.300000190734863      respectively.
+ The data generated will be saved to file Case_12_sim.dat
+ ### Generating Grid ###
+ Grid Generation Successfull.
+ ### Solving for Flow Parameters ###
+ Convergence was reached after, iterations =        3332
+ UTAU1=  0.86839965478217629      UTAU2=  0.43552502459732817     
+ UAVG=   18.621984096773417      UMAX=   20.448667330765854     
+ ### Organizing Data Files ###
+ Copied Successfully 
+ Copying Generated simulation data to the directory '../Simulated_Data'
+ cp Case_12_sim.dat ../Simulated_Data/Case_12_sim.dat
+ Copied Successfully 
+ ### Plotting ###
+ Creating Plots
+ python autoplotting.py --file Case_12_sim.dat
+('Case to be plotted: ', 'Case_12_')
+Plotting Case
+Saving Plots
+ Cleaning Execution Directory
+ ### Fetching Values from the Parameters File ###
+ The selected CASE NUMBER is           13
+ Here, the values of VW, H, DPDX are    12.840000152587891        6.5999999642372131E-002  -18.500000000000000      respectively.
+ The data generated will be saved to file Case_13_sim.dat
+ ### Generating Grid ###
+ Grid Generation Successfull.
+ ### Solving for Flow Parameters ###
+ Convergence was reached after, iterations =        3489
+ UTAU1=  0.96645865302576073      UTAU2=  0.53568429637421211     
+ UAVG=   20.721430422553940      UMAX=   22.653671385560671     
+ ### Organizing Data Files ###
+ Copied Successfully 
+ Copying Generated simulation data to the directory '../Simulated_Data'
+ cp Case_13_sim.dat ../Simulated_Data/Case_13_sim.dat
+ Copied Successfully 
+ ### Plotting ###
+ Creating Plots
+ python autoplotting.py --file Case_13_sim.dat
+('Case to be plotted: ', 'Case_13_')
+Plotting Case
+Saving Plots
+ Cleaning Execution Directory
+ ### Fetching Values from the Parameters File ###
+ The selected CASE NUMBER is           14
+ Here, the values of VW, H, DPDX are    8.5900001525878906        6.5999999642372131E-002  -20.799999237060547      respectively.
+ The data generated will be saved to file Case_14_sim.dat
+ ### Generating Grid ###
+ Grid Generation Successfull.
+ ### Solving for Flow Parameters ###
+ Convergence was reached after, iterations =        3250
+ UTAU1=  0.95885152688602859      UTAU2=  0.67335257599714482     
+ UAVG=   20.105529240345700      UMAX=   21.841613897495968     
+ ### Organizing Data Files ###
+ Copied Successfully 
+ Copying Generated simulation data to the directory '../Simulated_Data'
+ cp Case_14_sim.dat ../Simulated_Data/Case_14_sim.dat
+ Copied Successfully 
+ ### Plotting ###
+ Creating Plots
+ python autoplotting.py --file Case_14_sim.dat
+('Case to be plotted: ', 'Case_14_')
+Plotting Case
+Saving Plots
+ Cleaning Execution Directory
+ ### Fetching Values from the Parameters File ###
+ The selected CASE NUMBER is           15
+ Here, the values of VW, H, DPDX are    0.0000000000000000        6.5999999642372131E-002  -13.140000343322754      respectively.
+ The data generated will be saved to file Case_15_sim.dat
+ ### Generating Grid ###
+ Grid Generation Successfull.
+ ### Solving for Flow Parameters ###
+ Convergence was reached after, iterations =        3996
+ UTAU1=  0.65729164582040422      UTAU2=  0.65970274389123740     
+ UAVG=   12.590156180248499      UMAX=   13.807000589268755     
+ ### Organizing Data Files ###
+ Copied Successfully 
+ Copying Generated simulation data to the directory '../Simulated_Data'
+ cp Case_15_sim.dat ../Simulated_Data/Case_15_sim.dat
+ Copied Successfully 
+ ### Plotting ###
+ Creating Plots
+ python autoplotting.py --file Case_15_sim.dat
+('Case to be plotted: ', 'Case_15_')
+Plotting Case
+Saving Plots
+ Cleaning Execution Directory
+ ### Fetching Values from the Parameters File ###
+ The selected CASE NUMBER is           16
+ Here, the values of VW, H, DPDX are    1.7999999523162842        2.9999999329447746E-002 -0.47999998927116394      respectively.
+ The data generated will be saved to file Case_16_sim.dat
+ ### Generating Grid ###
+ Grid Generation Successfull.
+ ### Solving for Flow Parameters ###
+ Convergence was reached after, iterations =         320
+ UTAU1=   4.2961635656053737E-002 UTAU2=  0.11204596029289635     
+ UAVG=   1.6814804721330305      UMAX=   2.0280154231068037     
+ ### Organizing Data Files ###
+ Copied Successfully 
+ Copying Generated simulation data to the directory '../Simulated_Data'
+ cp Case_16_sim.dat ../Simulated_Data/Case_16_sim.dat
+ Copied Successfully 
+ ### Plotting ###
+ Creating Plots
+ python autoplotting.py --file Case_16_sim.dat
+('Case to be plotted: ', 'Case_16_')
+Plotting Case
+Saving Plots
+ Cleaning Execution Directory
+ ### Fetching Values from the Parameters File ###
+ The selected CASE NUMBER is           17
+ Here, the values of VW, H, DPDX are    3.0899999141693115        2.9999999329447746E-002 -0.60000002384185791      respectively.
+ The data generated will be saved to file Case_17_sim.dat
+ ### Generating Grid ###
+ Grid Generation Successfull.
+ ### Solving for Flow Parameters ###
+ Convergence was not reached !
+ Calculations terminated after       10000 iterations.
+ UTAU1=   3.5805036358358099E-002 UTAU2=  0.12929810394734001     
+ UAVG=   2.1433409263375820      UMAX=   3.1828771563047145     
+ ### Organizing Data Files ###
+ Copied Successfully 
+ Copying Generated simulation data to the directory '../Simulated_Data'
+ cp Case_17_sim.dat ../Simulated_Data/Case_17_sim.dat
+ Copied Successfully 
+ ### Plotting ###
+ Creating Plots
+ python autoplotting.py --file Case_17_sim.dat
+('Case to be plotted: ', 'Case_17_')
+Plotting Case
+Saving Plots
+ Cleaning Execution Directory
+ ### Fetching Values from the Parameters File ###
+ The selected CASE NUMBER is           18
+ Here, the values of VW, H, DPDX are    3.7500000000000000        2.9999999329447746E-002 -0.66000002622604370      respectively.
+ The data generated will be saved to file Case_18_sim.dat
+ ### Generating Grid ###
+ Grid Generation Successfull.
+ ### Solving for Flow Parameters ###
+ Convergence was not reached !
+ Calculations terminated after       10000 iterations.
+ UTAU1=   4.0754911338567262E-002 UTAU2=  0.13468124422449085     
+ UAVG=   2.4055621842584594      UMAX=   3.8914152826269879     
+ ### Organizing Data Files ###
+ Copied Successfully 
+ Copying Generated simulation data to the directory '../Simulated_Data'
+ cp Case_18_sim.dat ../Simulated_Data/Case_18_sim.dat
+ Copied Successfully 
+ ### Plotting ###
+ Creating Plots
+ python autoplotting.py --file Case_18_sim.dat
+('Case to be plotted: ', 'Case_18_')
+Plotting Case
+Saving Plots
+ Cleaning Execution Directory
+ Invalid Case Number. Exiting
