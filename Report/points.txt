@@ -1,0 +1,2 @@
+make a plot of error when either KIN_VISN or TKIN_VISS is used and when TKIN_VIS (i.e. average) is used. Try plotting error against YPAD(I)/H and correlated with Y+ or other parameters against YPAD(I)/H
+
