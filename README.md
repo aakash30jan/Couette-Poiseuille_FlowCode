@@ -1,9 +1,9 @@
-#Couette-Poiseuille Flow Code
+# Couette-Poiseuille Flow Code
 
 <p> The work on computations of Couette-Poiseuille flow with a mixing-length model was done as of part of 'Turbulence Practices' course supervised by [Dr. Jean-Philippe Laval](http://imp-turbulence.ec-lille.fr/Webpage/Laval/) during the IMP Turbulence coursework. The objective of this course was to program a simple turbulent model in a very simple case and to compare the results with the theoretical solution in laminar case, and with experimental results for the turbulent case. As the case was simple, the effect of several parameters such as the number of grid point as well as the grid stretching near the wall were investigated. The attached report contains the details of the case investigated, the governing equations, the details of computation code as well as discussions on the results obtained.
 </p>
 
-##Directory Structure:
+## Directory Structure:
 ```sh
 cpFlow
 ├── README.md
@@ -33,7 +33,7 @@ cpFlow
 ```
 
 
-##Requirements:
+## Requirements:
 1. gfortran 4.8.4+
 2. python 2.7 (optional)
 3. numpy 2.1.0+ (optional)
@@ -41,24 +41,24 @@ cpFlow
 5. optparse 1.5.3+ (optional)
 
 
-##Build:
+## Build:
 1. Extract "cpFlow.tar"
 2. Please do not modify the directory structure
 3. Navigate to "src"
 4. Build with "make"
 5. Use "make clean" to clean previous build, if required
 
-##Execution
+## Execution
 1. After successfull build, execute "./cpFlow.exe"
 2. Navigate to "../Simulated_Data" directory to check the generated data.
 3. If auto-plotting was enabled, the plot can be found by navigating to "../Generated_Plots" directory.
         
 
-##Notes:
+## Notes:
 1. To enable auto-plotting(from parameters.f90), python 2.7 with the mentioned libraries are required
 2. "cleanUp.sh" in the Experimental Data directory is a script to rename the original data files and make it python-friendly
 
-##Example Output:
+## Example Output:
 ```sh
  ########################################
  ###### Couette_Poiseuille-FlowCode #####
@@ -87,7 +87,7 @@ cpFlow
  Saving Plots
  Cleaning Execution Directory
 ```
-##Screenshot
+## Screenshot
 <p align="center">
   <img src="./Screenshot.png" alt="Screenshot"
        width="654" height="450">
