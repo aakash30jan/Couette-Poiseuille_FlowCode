@@ -1,6 +1,6 @@
 <h1>Couette-Poiseuille Flow Code</h1>
 
-The work on computations of Couette-Poiseuille flow with a mixing-length model was done as of part of `Turbulence Practices` course supervised by <a href="http://imp-turbulence.ec-lille.fr/Webpage/Laval/"> Dr. Jean-Philippe Laval </a> during the  coursework of Master's Program in Turbulence. The objective of this course was to program a simple turbulent model in a simple case and to compare the results with the theoretical solution in laminar case, and with experimental results for the turbulent case. As the case was simple, the effect of several parameters such as the number of grid point as well as the grid stretching near the wall were investigated. The attached report contains the details of the case investigated, the governing equations, the details of computation code as well as discussions on the results obtained.
+The work on computations of Couette-Poiseuille flow with a mixing-length model was done as of part of `Turbulence Practices - Individual Research Project (8 ECTS)` course supervised by [Dr. Jean-Philippe Laval](http://imp-turbulence.ec-lille.fr/Webpage/Laval/) during the  coursework of Master's Program in Turbulence. The objective of this course was to program a simple turbulent model in a simple case and to compare the results with the theoretical solution in laminar case, and with experimental results for the turbulent case. As the case was simple, the effect of several parameters such as the number of grid point as well as the grid stretching near the wall were investigated. The attached [report](./PatilAakash_Report_CPFlow.pdf) contains the details of the case investigated, the governing equations, the details of computation code as well as discussions on the results obtained.
 
 
 ## Directory Structure:
@@ -55,7 +55,7 @@ cpFlow
         
 
 ## Notes:
-1. To enable auto-plotting(from parameters.f90), python 2.7 with the mentioned libraries are required
+1. To enable auto-plotting(from parameters.f90), Python 2.7 along with the mentioned libraries are required
 2. "cleanUp.sh" in the Experimental Data directory is a script to rename the original data files and make it python-friendly
 
 ## Example Output:
