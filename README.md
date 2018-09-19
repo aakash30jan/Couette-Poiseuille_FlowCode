@@ -101,6 +101,9 @@ Get the published source-code tarball by:
        width="750" height="450">
 </p>
        
+## Cite  
+Please use `https://doi.org/10.5281/zenodo.1421983` for citing this code or report. You may also download [this](./patil_codereport2018.bib) `.bib` file .  
+
 ## License
 [MIT](./LICENSE)
 
