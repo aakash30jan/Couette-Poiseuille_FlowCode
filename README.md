@@ -42,21 +42,21 @@ cpFlow
 
 
 ## Build:
-1. Extract "cpFlow.tar"
+1. Extract `cpFlow.tar`
 2. Please do not modify the directory structure
-3. Navigate to "src"
-4. Build with "make"
-5. Use "make clean" to clean previous build, if required
+3. Navigate to `src`
+4. Build with `make`
+5. Use `make clean` to clean previous build, if required
 
 ## Execution
-1. After successfull build, execute "./cpFlow.exe"
-2. Navigate to "../Simulated_Data" directory to check the generated data.
-3. If auto-plotting was enabled, the plot can be found by navigating to "../Generated_Plots" directory.
+1. After successfull build, execute `./cpFlow.exe`
+2. Navigate to `../Simulated_Data` directory to check the generated data.
+3. If auto-plotting was enabled, the plot can be found by navigating to `../Generated_Plots` directory.
         
 
 ## Notes:
-1. To enable auto-plotting(from parameters.f90), Python 2.7 along with the mentioned libraries are required
-2. "cleanUp.sh" in the Experimental Data directory is a script to rename the original data files and make it python-friendly
+1. To enable auto-plotting(from `parameters.f90`), Python 2.7 along with the mentioned libraries are required
+2. `cleanUp.sh` in the Experimental Data directory is a bash script to rename the original data files and make it python-friendly
 
 ## Example Output:
 ```sh
@@ -89,8 +89,10 @@ cpFlow
 ```
 ## Screenshot
 <p align="center">
-  <img src="./Screenshot.png" alt="Screenshot"
-       width="654" height="450">
+  <img src="./dev/screenshot.png" alt="Screenshot"
+       width="750" height="450">
 </p>
        
+## License
+[MIT](https://tldrlegal.com/license/mit-license)
 
