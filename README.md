@@ -1,5 +1,4 @@
-#Couette-Poiseuille Flow Code  
-<br>
+#Couette-Poiseuille Flow Code
 [![DOI](https://zenodo.org/badge/125785403.svg)](https://zenodo.org/badge/latestdoi/125785403)
 
 
