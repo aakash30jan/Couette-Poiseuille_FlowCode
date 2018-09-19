@@ -40,6 +40,12 @@ cpFlow
 4. matplotlib 1.13.1+ (optional)
 5. optparse 1.5.3+ (optional)
 
+## Download
+Clone the repository with all the development phase data by:  
+`$ git clone https://github.com/aakash30jan/Couette-Poiseuille_FlowCode.git`
+OR
+Get the published source-code tarball by:
+`$ wget https://github.com/aakash30jan/Couette-Poiseuille_FlowCode/blob/master/cpFlow.tar`
 
 ## Build:
 1. Extract `cpFlow.tar`
