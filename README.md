@@ -102,7 +102,7 @@ Get the published source-code tarball by:
 </p>
        
 ## Cite  
-Please use `https://doi.org/10.5281/zenodo.1421983` for citing this code or report. You may also download [this](./patil_codereport2018.bib) `.bib` file .  
+Please use `https://doi.org/10.5281/zenodo.1421983` for citing this code or report. You may also download [this](https://github.com/aakash30jan/Couette-Poiseuille_FlowCode/raw/master/patil_codereport2018.bib) `.bib` file .  
 
 ## License
 [MIT](./LICENSE)
