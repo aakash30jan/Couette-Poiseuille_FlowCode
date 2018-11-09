@@ -47,7 +47,9 @@ Clone the repository with all the development phase data by:
 `$ git clone https://github.com/aakash30jan/Couette-Poiseuille_FlowCode.git`  
 OR  
 Get the published source-code tarball by:  
-`$ wget https://github.com/aakash30jan/Couette-Poiseuille_FlowCode/blob/master/cpFlow.tar`  
+`$ wget https://github.com/aakash30jan/Couette-Poiseuille_FlowCode/blob/master/cpFlow.tar?raw=true -O cpFlow.tar`  
+OR  
+[Click Here](https://github.com/aakash30jan/Couette-Poiseuille_FlowCode/blob/master/cpFlow.tar?raw=true) to directly download the published source-code tarball. 
 
 ## Build:
 1. Extract `cpFlow.tar`
