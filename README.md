@@ -1,5 +1,5 @@
 # Couette-Poiseuille Flow Code  
-[![DOI](https://zenodo.org/badge/125785403.svg)](https://zenodo.org/badge/latestdoi/125785403)
+[![DOI](https://zenodo.org/badge/125785403.svg)](https://zenodo.org/badge/latestdoi/125785403) [![HitCount](http://hits.dwyl.io/aakash30jan/Couette-Poiseuille_FlowCode.svg)](http://hits.dwyl.io/aakash30jan/Couette-Poiseuille_FlowCode)
 
 
 The work on computations of Couette-Poiseuille flow with a mixing-length model was done as of part of `Turbulence Practices - Individual Research Project (8 ECTS)` course supervised by [Dr. Jean-Philippe Laval](http://imp-turbulence.ec-lille.fr/Webpage/Laval/) during the  coursework of Master's Program in Turbulence. The objective of this course was to program a turbulent model in a simple case and to compare the results with the theoretical solution in laminar case, and with experimental results for the turbulent case. As the case was simple, the effect of several parameters such as the number of grid point as well as the grid stretching near the wall were investigated. The attached [report](https://github.com/aakash30jan/Couette-Poiseuille_FlowCode/raw/master/PatilAakash_Report_CPFlow.pdf) contains the details of the case investigated, the governing equations, the details of computation code as well as discussions on the results obtained.
